@@ -1,5 +1,5 @@
 # Python Discord BOT
-# author - p4thw4yz
+# author - n3wdr
 # Simple python discord bot to get anyone started with creating there own custom
 # discord bot, this can also be used to intergrate other features and programs into you discord server.
 
